@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🐦 I’m currently working on Flutter and Dart security at Google
+
+![](https://komarev.com/ghpvc/?username=sealesj)
